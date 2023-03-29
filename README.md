@@ -5,3 +5,4 @@
 _These numbers were produced by our generator that allows control over different aspects of the image._
 
 This repository contains the official TensorFlow implementation of the following paper:
+> Generative Adversarial Networks
