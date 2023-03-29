@@ -1,3 +1,2 @@
 # Vanilla_GAN - PyTorch Implementation
-PyTorch implementation of [Generative Adversarial Networks](https://arxiv.org/abs/1406.2661) by Ian Goodfellow et al. on the MNIST dataset.
-
+![progress](https://user-images.githubusercontent.com/50144683/228511407-72eafe5e-106d-4be5-8c45-9054a285c5d8.gif)
