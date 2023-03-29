@@ -12,7 +12,7 @@ that captures the data distribution, and a discriminative model D that estimates
 
 ## GAN Loss and Training
 The training of the Generator(G) and Discriminator(D) networks is based on the following MiniMax game played between the two.</br>
-<img src="https://user-images.githubusercontent.com/50144683/228524056-daa3a7f8-ebcf-46e6-a562-2c33627669d6.png">
+<img src="https://user-images.githubusercontent.com/50144683/228524056-daa3a7f8-ebcf-46e6-a562-2c33627669d6.png" width=35%>
 
 The training algorithm is described in the paper as below :</br>
-<img src="https://user-images.githubusercontent.com/50144683/228524568-12035248-41fd-491d-bc7c-d51d5573cf00.png">
+<img src="https://user-images.githubusercontent.com/50144683/228524568-12035248-41fd-491d-bc7c-d51d5573cf00.png" width=35%>
