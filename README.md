@@ -1,2 +1,3 @@
-# Vanilla-GAN-
-Implementaion of GAN by Ian Goodfellow et al. on the MNIST dataset.
+# Vanilla-GAN
+PyTorch implementation of Generative Adversarial Networks by Ian Goodfellow et al. on the MNIST dataset.
+
