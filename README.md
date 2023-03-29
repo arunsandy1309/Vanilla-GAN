@@ -6,5 +6,5 @@ _These numbers were produced by our generator that allows control over different
 
 This repository contains the Pytorch implementation of the following paper:
 >Generative Adversarial Networks
-
+>
 >Ian J. Goodfellow, Jean Pouget-Abadie, Mehdi Mirza, Bing Xu, David Warde-Farley, Sherjil Ozair, Aaron Courville, Yoshua Bengio
