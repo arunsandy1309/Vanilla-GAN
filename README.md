@@ -16,3 +16,6 @@ The training of the Generator(G) and Discriminator(D) networks is based on the f
 
 The training algorithm is described in the paper as below :</br>
 <img src="https://user-images.githubusercontent.com/50144683/228524568-12035248-41fd-491d-bc7c-d51d5573cf00.png" width=65%>
+
+Binary Cross Entropy loss was used to train both generator and discriminator. Generator was trained my maximising discriminators probability of being real on fake data instead of other way round, because as mentioned in the paper, it provides stronger gradients early.</br>
+<img src="https://user-images.githubusercontent.com/50144683/228525406-e0faaa16-3aa7-405c-82e3-0285044a4137.png" width=45%>
