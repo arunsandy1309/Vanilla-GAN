@@ -19,3 +19,8 @@ The training algorithm is described in the paper as below :</br>
 
 Binary Cross Entropy loss was used to train both generator and discriminator. Generator was trained my maximising discriminators probability of being real on fake data instead of other way round, because as mentioned in the paper, it provides stronger gradients early.</br>
 <img src="https://user-images.githubusercontent.com/50144683/228525406-e0faaa16-3aa7-405c-82e3-0285044a4137.png" width=45%>
+
+## Related Works
++ [Generating Real World Images using DCGAN in PyTorch](https://github.com/arunsandy1309/RealWorld-Image-Generation-DCGAN)
++ [Anime Character Generation using DCGAN in PyTorch](https://github.com/arunsandy1309/Anime-Character-Generation-DCGAN)
++ [Conditional GAN in PyTorch](https://github.com/arunsandy1309/Conditional-GAN-PyTorch)
