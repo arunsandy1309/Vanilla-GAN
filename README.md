@@ -24,3 +24,4 @@ Binary Cross Entropy loss was used to train both generator and discriminator. Ge
 + [Generating Real World Images using DCGAN in PyTorch](https://github.com/arunsandy1309/RealWorld-Image-Generation-DCGAN)
 + [Anime Character Generation using DCGAN in PyTorch](https://github.com/arunsandy1309/Anime-Character-Generation-DCGAN)
 + [Conditional GAN in PyTorch](https://github.com/arunsandy1309/Conditional-GAN-PyTorch)
++ [CycleGAN in PyTorch](https://github.com/arunsandy1309/CycleGAN-PyTorch)
